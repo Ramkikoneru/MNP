@@ -1,2 +1,2 @@
 # MNP
-MNP Pracrice!
+MNP Pracrice done!
